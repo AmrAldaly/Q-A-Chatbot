@@ -34,7 +34,7 @@ def generate_response(question,api_key,llm,temperature,max_tokens):
 
 ## Streamlit App
 
-## title of tha app
+## title of the app
 st.title("Q&A Chatbot with Groq")
 
 ## sidebar for settings
