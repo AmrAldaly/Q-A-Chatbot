@@ -109,7 +109,7 @@ Tracing is enabled using LangSmith for debugging and monitoring LLM calls.
 
 ##  Screenshots
 
-(Screenshots/![alt text](Screenshots/screenshot3.3-1776959649385.png))
+(![alt text](Screenshots/screenshot3.3-1776959649385.png))
 
 ---
 
